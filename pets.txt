@@ -2,8 +2,11 @@ Species
 =======
 Cat
 Dog
-Buffola 
+Buffalo
 Iguana
+Hamster
+Mouse
+Frog
 
 Names
 =====
