@@ -2,7 +2,7 @@ Species
 =======
 Cat
 Dog
-Buffola 
+Buffalo
 Iguana
 
 Names
